@@ -1,8 +1,9 @@
  <!-- 👩🏻 Personal GitHub Profile README for Athira K Nair -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" height="180"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
+
 
 <h2 align="center">Hi 👋, I'm Athira K Nair</h2>
 
