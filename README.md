@@ -1,8 +1,9 @@
  <!-- 👩🏻 Personal GitHub Profile README for Athira K Nair -->
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/210597/screenshots/11222893/media/85937e45b9d99f86538ef2787e55614f.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
 
 
 
