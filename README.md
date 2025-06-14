@@ -17,12 +17,12 @@
 <h2 align="center">Hi 👋, I'm Athira K Nair</h2>
 
 <p align="center">
-  🚀 Aspiring Data Scientist | Passionate about AI, Machine Learning, and Real-world Problem Solving  
+   Aspiring Data Scientist | Passionate about AI, Machine Learning, and Real-world Problem Solving  
 </p>
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 - 🎓 Master’s student with a focus on Data Science & AI
 - 🔍 Currently exploring: Applied ML, Deep Learning, and AI-powered tools
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tools & Tech I Work With
+###  Tools & Tech I Work With
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -45,16 +45,16 @@
 
 ---
 
-### 📂 Featured Project
+###  Featured Project
 
 **🔍 [Customer Churn Prediction](https://github.com/athiraknair08/customer-churn-prediction)**  
 Predicting customer churn using XGBoost, SMOTE, and hyperparameter tuning.  
-✅ Strong recall on churners (67%)  
-✅ End-to-end workflow with EDA, modeling, feature importance, and Streamlit deployment
+ Strong recall on churners (67%)  
+ End-to-end workflow with EDA, modeling, feature importance, and Streamlit deployment
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athiraknair08&show_icons=true&theme=vue-dark&hide=stars" width="450"/>
@@ -63,13 +63,13 @@ Predicting customer churn using XGBoost, SMOTE, and hyperparameter tuning.
 
 ---
 
-### 🌐 Let’s Connect
+###  Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/athira-krishnankutty-nair-611ab11aa)
 [![Gmail](https://img.shields.io/badge/-athiraknair0826@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:athiraknair0826@gmail.com)
 
 ---
 
-> ⚡ “Data is the new oil, but storytelling is the spark.”  
+>  “Data is the new oil, but storytelling is the spark.”  
 > — Athira
 
