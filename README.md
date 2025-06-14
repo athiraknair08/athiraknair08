@@ -24,10 +24,10 @@
 
 ###  About Me
 
-- 🎓 Master’s student with a focus on Data Science & AI
-- 🔍 Currently exploring: Applied ML, Deep Learning, and AI-powered tools
-- 🧠 Love building end-to-end data science projects with real impact
-- ✨ I value clean code, storytelling through data, and constant learning
+-  Master’s student with a focus on Data Science & AI
+-  Currently exploring: Applied ML, Deep Learning, and AI-powered tools
+-  Love building end-to-end data science projects with real impact
+-  I value clean code, storytelling through data, and constant learning
 
 ---
 
