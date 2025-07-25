@@ -45,14 +45,7 @@
 
 ---
 
-###  Featured Project
 
-** [Customer Churn Prediction](https://github.com/athiraknair08/customer-churn-prediction)**  
-Predicting customer churn using XGBoost, SMOTE, and hyperparameter tuning.  
- Strong recall on churners (67%)  
- End-to-end workflow with EDA, modeling, feature importance, and Streamlit deployment
-
----
 
 ###  GitHub Stats
 
